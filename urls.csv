@@ -1,0 +1,29 @@
+,ID ,Press,News_Type ,URL
+0,1,News18,World,https://www.news18.com/world/
+1,2,News18,India,https://www.news18.com/india/
+2,3,News18,Business,https://www.news18.com/business/
+3,4,News18,Politics,https://www.news18.com/politics/
+4,5,News18,Movies,https://www.news18.com/movies/
+5,6,News18,Viral,https://www.news18.com/viral/
+6,7,Mint,Market,https://www.livemint.com/market
+7,8,Mint,World,https://www.livemint.com/world
+8,9,Mint,Sports,https://www.livemint.com/sports
+9,10,Mint,Technology,https://www.livemint.com/technology
+10,11,Mint,Business,https://www.livemint.com/business
+11,12,Mint,Politics,https://www.livemint.com/politics
+12,13,Indian Express,Entertainment,https://indianexpress.com/section/entertainment/
+13,14,Indian Express,Sports,https://indianexpress.com/section/sports/
+14,15,Indian Express,Politics,https://indianexpress.com/section/political-pulse/
+15,16,Indian Express,LifeStyle,https://indianexpress.com/section/lifestyle/
+16,17,India TV,Sports,https://www.indiatvnews.com/sports
+17,18,India TV,Business,https://www.indiatvnews.com/business
+18,19,India TV,Technology,https://www.indiatvnews.com/technology
+19,20,India TV,World,https://www.indiatvnews.com/world
+20,21,India TV,Health,https://www.indiatvnews.com/health
+21,22,India,Education,https://www.indiatvnews.com/education
+22,23,The Hindu,India,https://www.thehindu.com/news/national/
+23,24,The Hindu,World,https://www.thehindu.com/news/international/
+24,25,The Hindu,Sports,https://www.thehindu.com/sport/football/
+25,26,The Hindu,Business,https://www.thehindu.com/business/
+26,27,The Hindu,Entertainment,https://www.thehindu.com/entertainment/
+27,28,The Hindu,Technology,https://www.thehindu.com/sci-tech/technology/
